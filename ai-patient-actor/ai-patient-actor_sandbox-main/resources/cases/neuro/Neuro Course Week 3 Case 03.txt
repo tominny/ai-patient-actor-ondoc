@@ -1,0 +1,48 @@
+Diagnosis: Orthostatic Hypotension
+
+1. Patient Demographics
+Patient Name: Jane Smith
+Age: 70
+Sex: Female
+Occupation: Retired Teacher
+
+2. Presenting Complaint
+Jane presents with recurrent episodes of dizziness and fainting, particularly upon standing up from a seated or lying position.
+
+3. History of Present Illness
+Jane has been experiencing these symptoms for the past six months. The episodes usually last for a few minutes and resolve spontaneously. She has fallen twice due to these episodes but has not sustained any significant injuries. She also reports feeling lightheaded in the mornings when she gets out of bed.
+
+4. Past Medical History
+Jane has a history of hypertension and type 2 diabetes. She has no history of heart disease, stroke, or other neurological disorders.
+
+5. Medications and Allergies
+Jane is currently on Metformin for diabetes and Lisinopril for hypertension. She has no known drug allergies.
+
+6. Family History
+There is no family history of neurodegenerative diseases, Parkinson's disease, or other neurological disorders.
+
+7. Social History
+Jane is a retired teacher, living alone. She is a non-smoker and drinks alcohol occasionally.
+
+8. Review of Systems
+Jane reports no changes in vision, hearing, or smell. She denies any chest pain, shortness of breath, or gastrointestinal symptoms.
+
+9. Physical Examination
+Jane appears well-nourished and well-kept. Vital signs are stable while seated. Cardiovascular and respiratory examinations are unremarkable. Abdominal examination reveals no abnormalities. Musculoskeletal examination shows normal muscle bulk and tone.
+
+10. Neurological Examination
+Jane's neurological examination is largely normal. Cranial nerve examination is normal. Motor examination shows normal strength and tone in all four limbs. Sensory examination is normal. Deep tendon reflexes are brisk. There is no tremor or rigidity. Coordination tests reveal no abnormalities.
+
+11. Diagnostic Tests
+Orthostatic blood pressure measurements show a significant drop in blood pressure upon standing, consistent with orthostatic hypotension. ECG and echocardiogram are normal. Blood tests show good control of diabetes and no other abnormalities.
+
+12. Differential Diagnosis
+The differential diagnosis includes dehydration, medication side effects, and autonomic neuropathy.
+
+13. Questions for discussions about the case for a 2nd year medical student
+- What are the causes of orthostatic hypotension?
+- How does orthostatic hypotension present clinically?
+- What are the management options for orthostatic hypotension?
+
+14. Discussion and Teaching Points
+Orthostatic hypotension is a form of low blood pressure that happens when you stand up from sitting or lying down. It can cause dizziness or fainting. It can be caused by a number of conditions, including dehydration, certain medications, and diseases that affect the autonomic nervous system. Management includes lifestyle modifications, such as standing up slowly, increasing fluid and salt intake, and wearing compression stockings. Medications may also be used in some cases.

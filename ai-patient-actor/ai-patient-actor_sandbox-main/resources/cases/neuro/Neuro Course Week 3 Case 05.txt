@@ -1,0 +1,66 @@
+Diagnosis: Cerebellar ataxia due to alcoholism
+1. Patient Demographics:
+Name: Robert Clarkson
+Age: 52 years
+Sex: Male
+Occupation: Former construction worker
+
+2. Presenting Complaint:
+Difficulties with balance, coordination, and slurred speech over the past year.
+
+3. History of Present Illness:
+Robert has experienced progressive unsteadiness while walking, frequent falls, and noticeable changes in his speech. Symptoms worsened over the last three months.
+
+4. Past Medical History:
+Chronic alcoholism, hypertension.
+
+5. Medications and Allergies:
+Currently on Atenolol for hypertension. No known allergies.
+
+6. Family History:
+Non-contributory.
+
+7. Social History:
+Acknowledges heavy alcohol use for over 30 years. Recently unemployed and living alone.
+
+8. Review of Systems:
+Denies headache, sensory deficits, or bowel and bladder disturbances. Reports weight loss and general weakness.
+
+9. Physical Examination:
+General: Mildly disheveled appearance, malnourished.
+Vital Signs: BP 140/90, HR 85, RR 16, Temp 98.6 F.
+Cardiovascular: Regular rhythm, no murmurs.
+Respiratory: Clear to auscultation.
+Abdomen: Soft, non-tender, no hepatomegaly.
+
+10. Neurological Examination:
+Mental Status: Alert, oriented to person and place but not time.
+Cranial Nerves: Dysarthric speech. Otherwise, CN II-XII are grossly intact.
+Motor: No focal weakness.
+Cerebellar: Dysdiadochokinesia, intention tremor, and past-pointing present bilaterally, worse on the right.
+Gait: Broad-based and ataxic, unable to walk heel-to-toe.
+Reflexes: Symmetrical, normal.
+Sensation: Intact to light touch, vibration, and proprioception.
+Coordination: Severely impaired with the finger-to-nose and heel-shin tests.
+
+11. Diagnostic Tests:
+
+Blood tests: Elevated liver enzymes, macrocytic anemia.
+MRI of the brain: Atrophy of the cerebellum, especially the vermis.
+Thiamine levels: Below normal range.
+12. Differential Diagnosis:
+
+Alcoholic cerebellar degeneration
+Multiple system atrophy
+Cerebellar stroke
+Paraneoplastic cerebellar degeneration
+13. Questions for Discussions:
+
+How do the symptoms and history of alcohol abuse correlate with cerebellar ataxia?
+Why is thiamine deficiency relevant in this case?
+What are the potential reversible factors in this case?
+14. Discussion and Teaching Points:
+
+Cerebellar ataxia in alcoholism is often due to direct toxic effects and nutritional deficiencies, especially thiamine.
+Chronic alcoholism can lead to characteristic cerebellar degeneration, particularly in the anterior superior vermis.
+Management includes abstinence from alcohol, nutritional support, and physical therapy.

@@ -1,0 +1,65 @@
+Diagnosis: Parkinson's Disease
+1. Patient Demographics:
+Name: David Sterling
+Age: 68 years
+Sex: Male
+Occupation: Retired teacher
+
+2. Presenting Complaint:
+Progressive difficulty with movement, stiffness, and tremors over the past 2 years.
+
+3. History of Present Illness:
+David has noticed a gradual onset of tremors in his right hand, which have worsened over time. He also reports stiffness in his limbs and slowness in initiating movements. His handwriting has become smaller, and his voice has softened.
+
+4. Past Medical History:
+Hypertension, benign prostatic hyperplasia.
+
+5. Medications and Allergies:
+Lisinopril for hypertension. Tamsulosin for BPH. No known allergies.
+
+6. Family History:
+No known family history of Parkinson’s disease or other neurological conditions.
+
+7. Social History:
+Non-smoker, occasional alcohol use. Lives with his spouse. Active in the community and enjoys playing chess.
+
+8. Review of Systems:
+Denies recent fevers, weight loss, or other systemic symptoms. Reports constipation and reduced sense of smell.
+
+9. Physical Examination:
+General: Alert, well-oriented in time, place, and person.
+Vital Signs: BP 128/78, HR 70, RR 16, Temp 98.6 F.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender.
+
+10. Neurological Examination:
+Mental Status: Intact cognitive function.
+Cranial Nerves: Intact.
+Motor: Bradykinesia observed. Rigidity present bilaterally in upper limbs, more pronounced on the right. Resting tremor in the right hand.
+Reflexes: Normal, symmetrical.
+Sensation: Intact to light touch, pinprick, and vibration.
+Coordination: Slight difficulty with rapid alternating movements.
+Gait: Reduced arm swing on the right side. Shuffling gait with difficulty initiating steps.
+
+11. Diagnostic Tests:
+
+No specific diagnostic test for Parkinson’s disease. Diagnosis is clinical.
+MRI Brain may be used to rule out other conditions; typically normal in Parkinson's disease but may show nonspecific changes.
+12. Differential Diagnosis:
+
+Parkinson’s disease
+Essential tremor
+Drug-induced parkinsonism
+Multiple system atrophy
+13. Questions for Discussions:
+
+What are the cardinal signs of Parkinson’s disease?
+How does one differentiate between Parkinson’s disease and essential tremor?
+What is the role of imaging in the diagnosis of Parkinson’s disease?
+14. Discussion and Teaching Points:
+
+Parkinson’s disease is characterized by bradykinesia, rigidity, resting tremor, and postural instability.
+Differentiating Parkinson’s disease from other parkinsonian syndromes is crucial for management.
+Treatment is symptomatic, with levodopa being the cornerstone of therapy.

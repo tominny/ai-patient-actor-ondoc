@@ -1,0 +1,66 @@
+Diagnosis: Hemiballism
+1. Patient Demographics:
+Name: Michael Thompson
+Age: 63 years
+Sex: Male
+Occupation: Retired postal worker
+
+2. Presenting Complaint:
+Sudden onset of involuntary flinging movements of the left arm and leg.
+
+3. History of Present Illness:
+Michael was in his usual state of health until this morning when he woke up with uncontrollable movements in his left limbs that have persisted throughout the day.
+
+4. Past Medical History:
+Type 2 diabetes mellitus, hyperlipidemia.
+
+5. Medications and Allergies:
+Metformin, atorvastatin. No known allergies.
+
+6. Family History:
+Mother had a stroke at age 78. No other significant family history.
+
+7. Social History:
+Lives with his wife, does not smoke or use illicit drugs, and drinks wine occasionally.
+
+8. Review of Systems:
+Denies headache, chest pain, shortness of breath. No recent illness or fever.
+
+9. Physical Examination:
+General: Awake, alert, and oriented. Involuntary movements noted on the left side.
+Vital Signs: BP 145/85, HR 78, RR 14, Temp 97.8 F.
+HEENT: PERRLA, EOMI, oropharynx clear.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended, no organomegaly.
+
+10. Neurological Examination:
+Mental Status: Intact.
+Cranial Nerves: II-XII intact.
+Motor: Normal tone and bulk on the right, involuntary ballistic movements on the left.
+Reflexes: 2+ and symmetric, Babinski negative bilaterally.
+Sensation: Intact to light touch, pain, temperature, vibration, and proprioception throughout.
+Coordination: Unable to assess coordination on the left due to hemiballismus. Right coordination is normal.
+Gait: Unable to walk due to the severity of movements.
+
+11. Diagnostic Tests:
+
+Blood tests: HbA1c elevated, other labs within normal limits.
+CT head without contrast: Hyperdense lesion in the right basal ganglia.
+MRI Brain shows lesion in the right subthalamic nucleus.
+12. Differential Diagnosis:
+
+Stroke causing hemiballismus
+Hyperglycemia-induced hemiballismus
+Drug-induced movement disorder
+Huntington's disease
+13. Questions for Discussions:
+
+What is the pathophysiology of hemiballism?
+How does the location of the lesion correlate with the presentation?
+What other conditions can mimic hemiballism?
+14. Discussion and Teaching Points:
+
+Hemiballismus is typically caused by lesions in the subthalamic nucleus or its connections.
+Control of blood sugar is important in diabetic patients with hemiballismus.
+Treatment may involve pharmacotherapy with neuroleptics or anticonvulsants.

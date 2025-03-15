@@ -1,0 +1,80 @@
+Diagnosis: Multiple Sclerosis
+
+1. Patient Demographics
+Name: Emily Carter
+Age: 32
+Sex: Female
+Occupation: Graphic Designer
+
+2. Presenting Complaint
+Emily presents with a three-week history of blurred vision in her right eye and difficulty with balance.
+
+3. History of Present Illness
+Emily first noticed her symptoms about three weeks ago when she experienced a patch of blurred vision that did not improve with rest or over-the-counter eye drops. In the past week, she has also noticed difficulty with coordination, particularly when walking or trying to grasp objects. These symptoms seemed to worsen slightly with an increase in body temperature, such as after a hot shower.
+
+4. Past Medical History
+Notable for eczema, treated intermittently with topical steroids. No other chronic illnesses or hospitalizations.
+
+5. Medications and Allergies
+Medications: None
+Allergies: Penicillin (rash)
+
+6. Family History
+Mother has hypothyroidism; father had myocardial infarction at age 60; no known family history of autoimmune or neurological diseases.
+
+7. Social History
+Emily is a nonsmoker and consumes alcohol socially, about 1-2 drinks per week. She lives with her partner and works full-time as a graphic designer. No recreational drug use.
+
+8. Review of Systems
+General: No weight loss, fever, or fatigue.
+HEENT: No history of headaches or hearing loss.
+Cardiovascular: No chest pain or palpitations.
+Respiratory: No shortness of breath or cough.
+GI: Normal appetite and bowel movements, no dysphagia.
+GU: No incontinence or urgency.
+Musculoskeletal: Reports occasional joint stiffness, no muscle pain.
+Integumentary: History of eczema, currently well-controlled.
+Neurological: Reports blurred vision and coordination difficulty, as mentioned.
+
+9. Physical Examination
+Vital Signs: Blood pressure 120/78 mmHg, heart rate 72 bpm, temperature 98.6°F, respiratory rate 16 breaths/min.
+General Appearance: Alert and oriented, not in acute distress.
+HEENT: Pupils equal, right pupil reacts sluggishly to light. Fundoscopic exam reveals a swollen optic disc on the right.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, no hepatosplenomegaly.
+Extremities: No cyanosis, edema, or rashes.
+
+10. Neurological Examination
+Mental Status: Awake, alert, and oriented to time, place, and person.
+Cranial Nerves: II- Optic disc swelling on right with afferent pupillary defect. Other cranial nerves intact.
+Motor: Normal bulk and tone in all four limbs. Strength 5/5 in upper extremities and lower extremities.
+Sensory: Decreased vibration sense at the ankles, proprioception intact.
+Coordination: Dysmetria on finger-to-nose test on the right, intention tremor in the right hand.
+Gait: Ataxic gait, unable to perform tandem walk.
+Reflexes: Brisk deep tendon reflexes throughout. Bilateral Babinski signs present.
+
+11. Diagnostic Test
+MRI of the brain and cervical spine with and without contrast: Multiple ovoid periventricular white matter lesions with some showing gadolinium enhancement indicative of active demyelination.
+
+12. Differential Diagnosis
+
+Multiple Sclerosis (most likely given MRI findings and clinical presentation)
+Neuromyelitis Optica Spectrum Disorder
+Acute Disseminated Encephalomyelitis
+Vitamin B12 deficiency
+Neurosarcoidosis
+13. Questions for Discussions About the Case for a 2nd Year Medical Student
+
+What is the significance of the symptoms worsening with heat (Uhthoff’s phenomenon)?
+How do the MRI findings correlate with Multiple Sclerosis?
+What are the typical signs and symptoms of Multiple Sclerosis?
+Why is it important to consider the age and sex of the patient when considering a diagnosis?
+What other tests can be done to support the diagnosis of Multiple Sclerosis?
+14. Discussion and Teaching Points
+
+The diagnosis of Multiple Sclerosis requires dissemination of lesions in time and space and should be supported by MRI findings.
+Uhthoff’s phenomenon is a temporary worsening of symptoms with heat, which is relatively specific to demyelinating diseases like MS.
+Multiple Sclerosis can present with a variety of signs and symptoms, depending on the location of demyelinating plaques within the central nervous system.
+The importance of considering demographic information in diagnosis is related to the epidemiology of the disease, with MS being more common in women and typically presenting between ages 20-40.
+Additional tests may include cerebrospinal fluid analysis for oligoclonal bands and evoked potentials to assess electrical conduction in neural pathways.

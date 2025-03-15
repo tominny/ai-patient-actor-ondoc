@@ -1,0 +1,230 @@
+REACT Framework Verbal Interaction Evaluation Rubric
+
+
+
+Introduction and Establishing Rapport
+
+Excellent:
+
+The student introduces themselves as a student, explains their role, and clearly sets the agenda for the encounter. They show genuine interest in the patient’s well-being and address the patient’s immediate concerns, building strong rapport.
+
+Example: "Hello, I’m Dr. Smith, one of the medical team members. I’m here to help gather some information and ensure we address your concerns today. Before we begin, is there anything else you’d like to discuss besides your chest pain?". I will make sure you have the
+
+
+
+Example: "Hello, I’m Dr. Smith, working with Dr. Jones . I’m here to help gather some information and ensure we address all your concerns today. Before we begin, is there anything else you’d like to discuss besides your chest pain?". I will make sure you have the opportunity to clarify any other questions you may have
+
+Example: "I understand you’ve been having shortness of breath, which must be very uncomfortable. I want to make sure you feel heard, and we take care of everything that’s worrying you." Feel free to ask me any questions you may have, and I will do my best to address them or relay it to the team
+
+
+
+Good:
+
+The student introduces themselves and their role but may not clearly set an agenda. They show some interest in the patient but do not fully engage or explore all concerns.
+
+Example: Hi I'm Dr.Smith working with Dr.Jones and I am here to evaluate you. Tell me more about what brings you in today.
+
+Example: How about Hi I'm Dr.Smith working with Dr.Jones , I see you have trouble breathing, what can I do to help you?
+
+
+
+Needs Improvement:
+
+The student fails to EITHER introduce themselves appropriately, set an agenda, or  establish rapport with the patient, missing key opportunities to understand the patient’s concerns.
+
+Example: "I’m Dr. Smith. Let’s get started."
+
+Example: "Tell me about your symptoms." Or “Tell me about the chest pain”
+
+
+
+Data Collection
+
+Collects history and physical exam data in a hypothesis directed manner. Recognizes patient and disease specifics and, recognizes patient and disease specific factors as potential etiologies of decompensation. Recognizes severity of clinical problem and contextual sign of urgency or emergency
+
+Excellent:
+
+The student uses a balanced approach of open-ended and focused questions to elicit the patient’s symptoms, history, and relevant details. They allow the patient to speak freely while guiding the conversation toward important diagnostic information. They take a logical approach for potential diagnosis. Questions assess likelihood of specific diagnosis. They fully recognize urgency contextual clues and prioritize pertinent positive and negative findings.
+
+Example:
+
+“Tell me when you first noticed the shortness of breath and how it has changed since then?”
+
+Example: "Tell me more about your medical history.”(Open ended)
+
+Example: “Have you had any other breathing problems or lung issues before?" (Focused)
+
+Example: I want to understand more about the pain/ breathing problem. Since when has this breathing problem worsened? What makes the pain better, what makes it worse? What have you done to improve your symptoms? Have you had these symptoms before, how soon did your condition worsen? What treatments did you get, were you ever hospitalized?
+
+
+
+
+
+Good:
+
+The student asks relevant questions but may lean too heavily on either open-ended or closed-ended questions. The patient is still able to convey their concerns, but important details may not be explored. Limited pertinent positive and negative findings. Limited recognition of urgent contextual clues.
+
+Example: "When did the shortness of breath start?"
+
+Example: "Have you ever experienced this kind of breathing issue before?"
+
+Example : Tell me more about your pain, when did it start worsening?
+
+
+
+Needs Improvement:
+
+The student asks mostly close-ended questions, leading to a limited understanding of the patient’s condition. They fail to explore important aspects of the patient’s symptoms and history. Non focused history and exam, missing key findings, includes extraneous information, did not recognize contextual clues
+
+Example: "Is your breathing problem getting worse?"
+
+Example: "Have you ever had asthma? Are you on any medications?"
+
+Example: Have these worsened with activity?
+
+
+
+Interpreting Information and Differential Diagnosis
+
+Generate prioritized differential diagnosis of most likely, less likely and unlikely causes.
+
+Excellent:
+
+The student synthesizes the patient’s history and clinical findings to develop a comprehensive and accurate differential diagnosis. They prioritize urgent issues while considering other possibilities.
+
+Example: "Based on your symptoms, I’m thinking this could be related to your asthma, but I also want to rule out other causes like heart problems or an infection. Let’s explore these possibilities together."
+
+Example: "You mentioned recent travel. Given your symptoms, we should consider blood clots in your lungs, so I’ll order some tests to check for that as well."
+
+
+
+
+
+Good:
+
+The student develops a differential diagnosis but may miss some critical aspects or potential diagnoses. Their interpretation of the data is generally accurate but lacks depth, the ranking  of diagnosis  is not accurate.
+
+Example: "This could be related to your asthma or maybe an infection. We’ll need some more tests to figure this out."
+
+Example: "I think this is most likely asthma, but I want to make sure we rule out other issues."
+
+
+
+Needs Improvement:
+
+The student struggles to form a coherent differential diagnosis, overlooking key clinical findings or focusing on less relevant information and missing cant miss diagnosis Includes inappropriate diagnosis
+
+Example: "It sounds like asthma. Let’s go ahead and treat it."
+
+Example: "I’m not sure what’s going on yet. We’ll need some tests."
+
+Example: I think you may have some infection, I am unsure.
+
+
+
+Management Planning and Decision-Making
+
+Directs evaluation and treatment towards high priority working diagnosis, initiates management in patient with urgent decompensation recognizes need to escalate patient care
+
+Excellent:
+
+The student creates a clear management plan that addresses both immediate and long-term patient needs. They demonstrate sound clinical judgment, balancing urgency with patient preferences and available resources. They defer tests that pertain to less likely, unlikely diagnosis and evaluate response to initial interventions.
+
+Example: "Right now, the most important thing is to help you breathe better, so I’m going to start you on a nebulizer treatment while we check your oxygen levels and run some blood tests to be sure we’re not missing anything serious."
+
+Example: "I’ll also arrange for a chest X-ray to rule out pneumonia or a lung problem, and we’ll work together on the next steps depending on what we find."
+
+
+
+
+
+Good:
+
+The student proposes a reasonable management plan but may lack clarity in addressing some aspects of the urgent clinical situation. Their plan is generally appropriate but could be improved with further refinement. Student focuses on evaluation of  likely and urgent diagnosis, including non essential testing, evalutes for response to initial management plan.
+
+Example: "Let’s give you a breathing treatment, and we’ll do some tests to make sure it’s just asthma."
+
+Example: "We’ll get you started on treatment for asthma and monitor you while we check your oxygen."
+
+Example: We will do a strep swab to ensure this is not a throat infection
+
+
+
+Needs Improvement:
+
+The student has difficulty formulating a management plan or makes decisions that do not adequately address the patient’s immediate needs, potentially putting the patient at risk. The student directs evaluation and treatment to unlikely, unimportant or only “can’t miss” diagnosis. The students does not evaluate or treat most likely diagnosis and does not evaluate for response to management plan
+
+Example: "I’ll order some tests and we’ll go from there."
+
+Example: "I think you need a PET scan to rule out cancer, so let’s get that."
+
+Example: You are fine despite your cold symptoms,  just keep taking your medications for now.
+
+
+
+Communication and Professionalism
+
+Communicate with healthcare team according to role and responsibility and to improve task efficiency. Maintain focus and two-way communication with patient or surrogate decision maker in urgent clinical situations.
+
+Excellent:
+
+The student communicates with clarity and professionalism, maintaining empathy and ensuring the patient understands the situation and the proposed plan. They demonstrate active listening and respect for the patient’s perspective. The student fully engages health care team members and improve task efficiency in clinical situation. Efficiently communicated plan with patient and family and ensured understanding, effectively clarifying the patient’s goals of care.
+
+Example: "I understand this situation can be scary, but we’re here to take care of you, and I’ll explain each step as we go. Do you have any questions about what we’ve discussed so far?" I am contacting the specialists about your care and I have asked our social worker to come and talk with you regarding your transporation. Our nurses will go over the asthma action plan
+
+Example: "Your safety is our priority, so I want to ensure you understand the treatment plan. Can you explain it back to me so I can make sure I described it well? Feel free to ask me about anything that’s unclear."
+
+
+
+Good:
+
+The student communicates adequately but may lack empathy in certain areas or miss opportunities to engage the patient in shared decision-making. Limited engagement of the team members to improve task efficiency. Limited effort to communicate with patient and family but uses medical jargon or fails to ensure patient understanding. The student provides limited clarification of patient’s goals of care
+
+Example: "We’re going to take good care of you. Do you have any questions?"
+
+Example: "We’ll get you the treatment you need, and I’ll explain more as we move forward."
+
+
+
+Needs Improvement:
+
+The student struggles to communicate effectively, leading to confusion or frustration. They may exhibit unprofessional behavior or fail to engage with the patient respectfully. The student does not engage health care team member, the student does not communicate plan with patient and family . The student does not clarify goals of care with the patient.
+
+Example: "We’ll take care of this. Just follow the plan."
+
+Example: "I’ll let you know what’s happening once we have more information."
+
+
+
+Reflection and Metacognition
+
+
+
+Excellent:
+
+The student reflects on their clinical reasoning process, acknowledging areas of uncertainty and seeking further information or guidance when appropriate. They demonstrate awareness of their decision-making and its potential impact on the patient. The student demonstrates their ability to think about his or her own thinking(metacognition) in the clinical situation. The student is able to mitigate cognitive tendencies or emotional or situational factors influencing clinical decision making.
+
+Example: "I’m thinking through all the possible causes, and I’ll double-check that we haven’t missed anything. If there’s anything you’re still unsure about, I want to discuss it together."
+
+Example: "I’m considering different treatment options, and if anything changes with your symptoms, we’ll need to adjust our plan. Please keep me informed about how you’re feeling."
+
+
+
+Good:
+
+The student shows some reflection on their reasoning process but may not fully explore areas of uncertainty or seek feedback when needed.
+
+Example: "I think we’re on the right track, but I’ll keep an eye on your response to treatment."
+
+Example: "We’ll start with this plan and reassess in a little while."
+
+
+
+Needs Improvement:
+
+The student does not reflect on their clinical reasoning process or fails to acknowledge gaps in their knowledge, leading to incomplete or flawed decision-making.
+
+Example: "We’re going with this plan for now."
+
+Example: "I think this should work, but we’ll see."
+
